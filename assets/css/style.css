@@ -165,3 +165,19 @@ footer {
     font-family: 'Georgia', Times, Times New Roman, serif;
     padding: 10px 60.5px;
 }
+
+.port_pic6 {
+    position: relative;
+    width: 333.33px;
+    margin: 10px 0px;
+}
+
+#port_pic6 {
+    position: absolute;
+    bottom: 10%;
+    font-size: 24px;
+    background-color: #4aaaa5;
+    color: #eee;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 10px 81.5px;
+}
